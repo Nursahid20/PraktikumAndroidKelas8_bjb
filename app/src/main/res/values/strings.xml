@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Praktikum Android Kelas 8</string>
+    <string name="calculator">Calculator</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="bagi">:</string>
+    <string name="kali">x</string>
+    <string name="hasil">hasil</string>
+</resources>
